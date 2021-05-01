@@ -1,0 +1,54 @@
+{
+  "Doctor": [
+    {
+      "Id": 1001,
+      "Doctor Name": "Raju",
+      "Specialization": "Pulmonologist"
+    },
+    {
+      "Id": 1002,
+      "Doctor Name": "Vimala",
+      "Specialization": "General Surgeon"
+    },
+    {
+      "Id": 1003,
+      "Doctor": "Naveen",
+      "Specialization": "Pediatrician"
+    },
+    {
+      "Id": 1004,
+      "Doctor Name": "Jenny",
+      "Specialization": "Cardiologist"
+    },
+    {
+    "Id": 1005,
+    "Doctor Name": "Joel",
+    "Specialization": "Dentist"
+    },
+     {
+    "Id": 1006,
+    "Doctor Name": "Mahalakshmi",
+    "Specialization": "Psychiatrists"
+    },
+    {
+    "Id": 1007,
+    "Doctor Name": "Vishnu",
+    "Specialization": "Oncologist"
+    },
+    {
+    "Id": 1008,
+    "Doctor Name": "Helen",
+    "Specialization": "Audiologist"
+    },
+    {
+    "Id": 1009,
+    "Doctor Name": "Kishore",
+    "Specialization": "ENT specialists"
+    },
+    {
+    "Id": 1010,
+    "Doctor Name": "Irene",
+    "Specialization": "Gynecologist"
+    }
+    
+]
